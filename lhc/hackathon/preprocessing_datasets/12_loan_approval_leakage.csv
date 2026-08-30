@@ -1,0 +1,11 @@
+id,income,credit_score,loan_paid_off,approved
+1,45000,650,Yes,Yes
+2,30000,580,No,No
+3,60000,700,Yes,Yes
+4,25000,550,No,No
+5,52000,690,Yes,Yes
+6,38000,600,No,No
+7,70000,720,Yes,Yes
+8,28000,560,No,No
+9,48000,660,Yes,Yes
+10,33000,590,No,No
